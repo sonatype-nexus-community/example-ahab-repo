@@ -4,7 +4,7 @@
 
 # Example Ahab Repo
 
-`ahab` is a tool to check for vulnerabilities in your apt or yum powered operating systems, powered by [Sonatype OSS Index](https://ossindex.sonatype.org/).
+[ahab](https://github.com/sonatype-nexus-community/ahab) is a tool to check for vulnerabilities in your apt or yum powered operating systems, powered by [Sonatype OSS Index](https://ossindex.sonatype.org/).
 
 This repo is just an example of running Ahab in a Docker build, on CircleCI.
 
